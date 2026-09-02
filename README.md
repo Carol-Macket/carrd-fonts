@@ -1,4 +1,4 @@
 # carrd-fonts
 Carrd-fonts and images too
 
-![Caldin-accueil](Caldin-homepage.png)
+![Caldin-accueil](caldin-homepage.png)
