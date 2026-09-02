@@ -1,2 +1,3 @@
 # carrd-fonts
-Carrd-fonts
+Carrd-fonts and images too
+
